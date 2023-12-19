@@ -54,7 +54,7 @@
   <style>
       button{
           width: max-content;
-          background-color: blueviolet;
+          background-color: #8a2be2;
           padding: 10px;
           margin-bottom: 10px;
           font-family: monospace;
@@ -78,17 +78,18 @@
   
       .contenedor{
           display: flex;
-          background-color: beige;
+          background-color: #f5f5dc;
           width: max-content;
           border-radius: 5px;
           border-style: groove;
       }
   
       .flex{
-          border: 1px solid black;
+          border: 1px solid #000000;
           border-radius: 10px;
           padding: 12px;
           width: max-content;
           margin: 5px;
       }
+  
   </style>
